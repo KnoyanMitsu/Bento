@@ -48,7 +48,7 @@ const CONFIG = {
       id: '2',
       name: 'Mail',
       icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      link: 'https://mail.tutanota.com/',
     },
     {
       id: '3',
@@ -58,9 +58,9 @@ const CONFIG = {
     },
     {
       id: '4',
-      name: 'Calendar',
-      icon: 'calendar',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'Facebook',
+      icon: 'facebook',
+      link: 'https://facebook.com',
     },
     {
       id: '5',
@@ -105,18 +105,6 @@ const CONFIG = {
       },
     ],
     secondList: [
-      {
-        name: 'Linkedin',
-        link: 'https://linkedin.com/',
-      },
-      {
-        name: 'Figma',
-        link: 'https://figma.com/',
-      },
-      {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
-      },
       {
         name: 'Telegram',
         link: 'https://webk.telegram.org',
